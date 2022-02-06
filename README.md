@@ -1,1 +1,1 @@
-Decentralized version of Code4rena
+Decentralized Code4rena
